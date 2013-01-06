@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourWPF", "ConnectFourWPF\ConnectFourWPF.csproj", "{6B417D63-C4BF-4EC2-BEAD-A752AB10C21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourWPFTests", "ConnectFourWPFTests\ConnectFourWPFTests.csproj", "{AD85156C-DE57-47AD-8CA8-7BB1D41D5DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B417D63-C4BF-4EC2-BEAD-A752AB10C21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B417D63-C4BF-4EC2-BEAD-A752AB10C21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B417D63-C4BF-4EC2-BEAD-A752AB10C21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B417D63-C4BF-4EC2-BEAD-A752AB10C21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD85156C-DE57-47AD-8CA8-7BB1D41D5DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD85156C-DE57-47AD-8CA8-7BB1D41D5DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD85156C-DE57-47AD-8CA8-7BB1D41D5DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD85156C-DE57-47AD-8CA8-7BB1D41D5DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
