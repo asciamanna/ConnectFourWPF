@@ -33,5 +33,9 @@ namespace ConnectFourWPF {
        //ellipse.Fill = cell.Disc == Disc.Red ? Brushes.Red : Brushes.Black;
       }
     }
+
+    void OnExit(object sender, ExecutedRoutedEventArgs e) {
+      Application.Current.Shutdown();
+    }
   }
 }

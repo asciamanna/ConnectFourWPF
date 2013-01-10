@@ -64,6 +64,7 @@
     </Compile>
     <Compile Include="BaseNotifyPropertyChanged.cs" />
     <Compile Include="Command.cs" />
+    <Compile Include="CustomCommands.cs" />
     <Compile Include="ConnectFourViewModel.cs" />
     <Compile Include="Disc.cs" />
     <Compile Include="GameBoard.cs" />
