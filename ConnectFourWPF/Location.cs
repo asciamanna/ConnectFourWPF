@@ -22,10 +22,6 @@ namespace ConnectFourWPF{
       return this.Column == that.Column && this.Row == that.Row;
     }
 
-    public Location Copy() {
-      return new Location(this.Row, this.Column);
-    }
-
     public override int GetHashCode() {
       return Column.GetHashCode() + Row.GetHashCode();
     }
